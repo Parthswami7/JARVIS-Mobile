@@ -5,9 +5,6 @@ dependencies = [
     "flet",
 ]
 
-[tool.flet.app]
-path = "main.py"
-
 [tool.flet.android]
 package_name = "com.parth.jarvis"
 permissions = ["RECORD_AUDIO", "INTERNET"]
