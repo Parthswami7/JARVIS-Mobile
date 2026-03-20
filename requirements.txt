@@ -1,2 +1,7 @@
 flet
 gTTS
+flet-audio
+flet-audio-recorder
+google-generativeai
+wikipedia
+requests
