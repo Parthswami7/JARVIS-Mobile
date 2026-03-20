@@ -3,7 +3,12 @@ name = "jarvis-mobile"
 version = "0.1.0"
 dependencies = [
     "flet",
-    "gTTS"
+    "gTTS",
+    "flet-audio",
+    "flet-audio-recorder",
+    "google-generativeai",
+    "wikipedia",
+    "requests"
 ]
 
 [tool.flet.android]
